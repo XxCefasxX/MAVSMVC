@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+RDtZbiTYsvcCEVoSHYwuI/lalwkPi5g1b7EB45Oo1QGHKkMxTFjLW0Ce7j86kfUddz0LzFU5PbJj+S219smjQ==",
+  "dgSpecHash": "GaWHX31siF7gHXcrAOAT/vvOU2mA572mZDYIWJpvGtImXyE/UdFbMfBe0GrkrNVEYiUlkFsbyAEQ4nFvCK2JWA==",
   "success": true,
-  "projectFilePath": "D:\\Proyectos\\CMS\\MAVS\\MAVSMVC.Infraestructure\\MAVSMVC.Infraestructure.csproj",
+  "projectFilePath": "D:\\Proyectos\\CMS\\MAVS\\MAVSMVC.Infraestructure\\MAVSMVC.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

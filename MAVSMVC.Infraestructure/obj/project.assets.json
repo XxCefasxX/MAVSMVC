@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Proyectos\\CMS\\MAVS\\MAVSMVC.Infraestructure\\MAVSMVC.Infraestructure.csproj",
-      "projectName": "MAVSMVC.Infraestructure",
-      "projectPath": "D:\\Proyectos\\CMS\\MAVS\\MAVSMVC.Infraestructure\\MAVSMVC.Infraestructure.csproj",
+      "projectUniqueName": "D:\\Proyectos\\CMS\\MAVS\\MAVSMVC.Infraestructure\\MAVSMVC.Infrastructure.csproj",
+      "projectName": "MAVSMVC.Infrastructure",
+      "projectPath": "D:\\Proyectos\\CMS\\MAVS\\MAVSMVC.Infraestructure\\MAVSMVC.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\salaz\\.nuget\\packages\\",
       "outputPath": "D:\\Proyectos\\CMS\\MAVS\\MAVSMVC.Infraestructure\\obj\\",
       "projectStyle": "PackageReference",
