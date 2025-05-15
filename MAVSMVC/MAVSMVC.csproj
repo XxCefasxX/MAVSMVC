@@ -6,4 +6,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MAVSMVC.Application\MAVSMVC.Application.csproj" />
+    <ProjectReference Include="..\MAVSMVC.Domain\MAVSMVC.Domain.csproj" />
+    <ProjectReference Include="..\MAVSMVC.Infraestructure\MAVSMVC.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>

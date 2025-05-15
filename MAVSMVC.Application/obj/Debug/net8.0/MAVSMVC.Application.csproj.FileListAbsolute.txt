@@ -1,0 +1,16 @@
+D:\Proyectos\CMS\MAVS\MAVSMVC.Application\bin\Debug\net8.0\MAVSMVC.Application.deps.json
+D:\Proyectos\CMS\MAVS\MAVSMVC.Application\bin\Debug\net8.0\MAVSMVC.Application.dll
+D:\Proyectos\CMS\MAVS\MAVSMVC.Application\bin\Debug\net8.0\MAVSMVC.Application.pdb
+D:\Proyectos\CMS\MAVS\MAVSMVC.Application\bin\Debug\net8.0\MAVSMVC.Domain.dll
+D:\Proyectos\CMS\MAVS\MAVSMVC.Application\bin\Debug\net8.0\MAVSMVC.Domain.pdb
+D:\Proyectos\CMS\MAVS\MAVSMVC.Application\obj\Debug\net8.0\MAVSMVC.Application.csproj.AssemblyReference.cache
+D:\Proyectos\CMS\MAVS\MAVSMVC.Application\obj\Debug\net8.0\MAVSMVC.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\CMS\MAVS\MAVSMVC.Application\obj\Debug\net8.0\MAVSMVC.Application.AssemblyInfoInputs.cache
+D:\Proyectos\CMS\MAVS\MAVSMVC.Application\obj\Debug\net8.0\MAVSMVC.Application.AssemblyInfo.cs
+D:\Proyectos\CMS\MAVS\MAVSMVC.Application\obj\Debug\net8.0\MAVSMVC.Application.csproj.CoreCompileInputs.cache
+D:\Proyectos\CMS\MAVS\MAVSMVC.Application\obj\Debug\net8.0\MAVSMVC.Application.sourcelink.json
+D:\Proyectos\CMS\MAVS\MAVSMVC.Application\obj\Debug\net8.0\MAVSMVC..EE8FD760.Up2Date
+D:\Proyectos\CMS\MAVS\MAVSMVC.Application\obj\Debug\net8.0\MAVSMVC.Application.dll
+D:\Proyectos\CMS\MAVS\MAVSMVC.Application\obj\Debug\net8.0\refint\MAVSMVC.Application.dll
+D:\Proyectos\CMS\MAVS\MAVSMVC.Application\obj\Debug\net8.0\MAVSMVC.Application.pdb
+D:\Proyectos\CMS\MAVS\MAVSMVC.Application\obj\Debug\net8.0\ref\MAVSMVC.Application.dll

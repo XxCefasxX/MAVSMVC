@@ -1,0 +1,12 @@
+D:\Proyectos\CMS\MAVS\MAVSMVC.Domain\bin\Debug\net8.0\MAVSMVC.Domain.deps.json
+D:\Proyectos\CMS\MAVS\MAVSMVC.Domain\bin\Debug\net8.0\MAVSMVC.Domain.dll
+D:\Proyectos\CMS\MAVS\MAVSMVC.Domain\bin\Debug\net8.0\MAVSMVC.Domain.pdb
+D:\Proyectos\CMS\MAVS\MAVSMVC.Domain\obj\Debug\net8.0\MAVSMVC.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\CMS\MAVS\MAVSMVC.Domain\obj\Debug\net8.0\MAVSMVC.Domain.AssemblyInfoInputs.cache
+D:\Proyectos\CMS\MAVS\MAVSMVC.Domain\obj\Debug\net8.0\MAVSMVC.Domain.AssemblyInfo.cs
+D:\Proyectos\CMS\MAVS\MAVSMVC.Domain\obj\Debug\net8.0\MAVSMVC.Domain.csproj.CoreCompileInputs.cache
+D:\Proyectos\CMS\MAVS\MAVSMVC.Domain\obj\Debug\net8.0\MAVSMVC.Domain.sourcelink.json
+D:\Proyectos\CMS\MAVS\MAVSMVC.Domain\obj\Debug\net8.0\MAVSMVC.Domain.dll
+D:\Proyectos\CMS\MAVS\MAVSMVC.Domain\obj\Debug\net8.0\refint\MAVSMVC.Domain.dll
+D:\Proyectos\CMS\MAVS\MAVSMVC.Domain\obj\Debug\net8.0\MAVSMVC.Domain.pdb
+D:\Proyectos\CMS\MAVS\MAVSMVC.Domain\obj\Debug\net8.0\ref\MAVSMVC.Domain.dll

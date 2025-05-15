@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MAVSMVC.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c41a17483fbe1e4bff63be4bc76c33f72d7b6d7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4e4ac260a33a278dbc10c12bd60408b5702bb04")]
 [assembly: System.Reflection.AssemblyProductAttribute("MAVSMVC.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MAVSMVC.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

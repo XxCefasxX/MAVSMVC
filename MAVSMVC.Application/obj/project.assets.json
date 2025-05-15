@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "MAVSMVC.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/MAVSMVC.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MAVSMVC.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "MAVSMVC.Domain/1.0.0": {
+      "type": "project",
+      "path": "../MAVSMVC.Domain/MAVSMVC.Domain.csproj",
+      "msbuildProject": "../MAVSMVC.Domain/MAVSMVC.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "MAVSMVC.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\salaz\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Proyectos\\CMS\\MAVS\\MAVSMVC.Domain\\MAVSMVC.Domain.csproj": {
+              "projectPath": "D:\\Proyectos\\CMS\\MAVS\\MAVSMVC.Domain\\MAVSMVC.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
