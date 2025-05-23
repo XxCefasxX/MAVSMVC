@@ -5,6 +5,12 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAVSMVC", "MAVSMVC.csproj", "{AC6F455D-9D09-4571-AB54-B07C196B0093}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAVSMVC.Domain", "..\MAVSMVC.Domain\MAVSMVC.Domain.csproj", "{6B05C1D1-E9D0-41B9-9AE0-5A4FC09D86EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAVSMVC.Application", "..\MAVSMVC.Application\MAVSMVC.Application.csproj", "{24D37A1F-FF34-48EA-885A-BAA3E36D45A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAVSMVC.Infrastructure", "..\MAVSMVC.Infraestructure\MAVSMVC.Infrastructure.csproj", "{CD2CEF19-DBDA-440F-BEFF-303E3BDB68BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{AC6F455D-9D09-4571-AB54-B07C196B0093}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC6F455D-9D09-4571-AB54-B07C196B0093}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC6F455D-9D09-4571-AB54-B07C196B0093}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B05C1D1-E9D0-41B9-9AE0-5A4FC09D86EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B05C1D1-E9D0-41B9-9AE0-5A4FC09D86EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B05C1D1-E9D0-41B9-9AE0-5A4FC09D86EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B05C1D1-E9D0-41B9-9AE0-5A4FC09D86EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24D37A1F-FF34-48EA-885A-BAA3E36D45A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24D37A1F-FF34-48EA-885A-BAA3E36D45A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24D37A1F-FF34-48EA-885A-BAA3E36D45A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24D37A1F-FF34-48EA-885A-BAA3E36D45A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD2CEF19-DBDA-440F-BEFF-303E3BDB68BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD2CEF19-DBDA-440F-BEFF-303E3BDB68BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD2CEF19-DBDA-440F-BEFF-303E3BDB68BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD2CEF19-DBDA-440F-BEFF-303E3BDB68BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

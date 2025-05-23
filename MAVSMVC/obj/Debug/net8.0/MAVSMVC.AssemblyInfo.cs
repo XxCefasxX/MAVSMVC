@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MAVSMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4e4ac260a33a278dbc10c12bd60408b5702bb04")]
 [assembly: System.Reflection.AssemblyProductAttribute("MAVSMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MAVSMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
