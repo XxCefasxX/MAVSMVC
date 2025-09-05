@@ -1,8 +1,10 @@
-﻿public interface IMenuService
+﻿using MAVSMVC.Application.Common.Responses;
+
+public interface IMenuService
 {
-    Task<MenuDto?> GetMenuByIdAsync(int id);
-    Task<MenuContentDto?> GetContentByMenuIdAsync(int menuId);
-    Task UpdateMenuAsync(MenuDto dto);
-    Task UpdateContentAsync(MenuContentDto dto);
-    Task CreateAsync(CreateMenuDto dto);
+    Task<Response<MenuDto>> GetMenuByIdAsync(int id);
+    Task<Response<MenuContentDto>> GetContentByMenuIdAsync(int menuId);
+    Task<Response<MenuDto>> UpdateMenuAsync(MenuDto dto);
+    Task<Response<MenuContentDto>> UpdateContentAsync(MenuContentDto dto);
+    Task<Response<MenuDto>> CreateAsync(CreateMenuDto dto);
 }

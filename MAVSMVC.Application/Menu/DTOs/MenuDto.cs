@@ -6,4 +6,5 @@
     public string? Description { get; set; }
     public string Slug { get; set; }
     public bool Visible { get; set; }
+    public DateTime? LastUpdate { get; set; }
 }

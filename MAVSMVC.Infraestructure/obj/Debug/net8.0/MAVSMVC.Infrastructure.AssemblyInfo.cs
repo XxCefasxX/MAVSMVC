@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MAVSMVC.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e038a51145c1925ba0f54c423a4e906c235fc95")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c1e41cdb3ecb7b9fd5c76092ea5cdeb666aeebd")]
 [assembly: System.Reflection.AssemblyProductAttribute("MAVSMVC.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MAVSMVC.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

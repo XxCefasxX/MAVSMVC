@@ -36,8 +36,8 @@ public class MenuController : Controller
 
         var viewModel = new MenuEditViewModel
         {
-            Menu = menu,
-            Content = content
+            Menu = menu.Data,
+            Content = content.Data
         };
 
         return View(viewModel);
