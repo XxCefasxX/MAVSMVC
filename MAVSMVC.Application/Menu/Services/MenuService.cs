@@ -107,17 +107,14 @@ public class MenuService : IMenuService
             if (menu is null)
                 return Response<MenuDto>.Fail($"No se encontró un menú con el id: {dto.ID}.");
 
-            if (menu != null)
-            {
-                menu.Name = dto.Name;
-                menu.Title = dto.Title;
-                menu.Description = dto.Description;
-                menu.Slug = dto.Slug;
-                menu.Visible = dto.Visible;
-                menu.LastUpdate = DateTime.UtcNow;
+            menu.Name = dto.Name;
+            menu.Title = dto.Title;
+            menu.Description = dto.Description;
+            menu.Slug = dto.Slug;
+            menu.Visible = dto.Visible;
+            menu.LastUpdate = DateTime.UtcNow;
 
-                await _menuRepo.UpdateAsync(menu);
-            }
+            await _menuRepo.UpdateAsync(menu);
             return Response<MenuDto>.Ok(dto, "Contenido encontrado correctamente.");
         }
         catch (Exception ex)
@@ -134,13 +131,10 @@ public class MenuService : IMenuService
             if (content is null)
                 return Response<MenuContentDto>.Fail($"No se encontró un menú con el id: {dto.MenuID}.");
 
-            if (content != null)
-            {
-                content.Info = dto.Info;
-                content.LastUpdate = DateTime.UtcNow;
+            content.Info = dto.Info;
+            content.LastUpdate = DateTime.UtcNow;
 
-                await _contentRepo.UpdateAsync(content);
-            }
+            await _contentRepo.UpdateAsync(content);
             return Response<MenuContentDto>.Ok(dto, "Contenido encontrado correctamente.");
         }
         catch (Exception ex)
